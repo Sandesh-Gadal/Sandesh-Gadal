@@ -1,0 +1,597 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 252, 249);
+    scrollbar-width: smooth;
+   
+}
+.logo{
+    width: 70%;
+    height: 70%;
+}
+
+.header-container {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header-container li a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+
+  .header-container {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+  .hamburger i{
+    display: none;
+  }
+  ul li{
+    list-style: none;
+    text-decoration: none;
+    float: left;
+  }
+
+   .header-container a:hover {
+    background-color: #ddd;
+    color: black;
+    border-bottom:3px solid green;
+  }
+  
+   .header-container a:active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+
+
+
+.about-container{
+    width: 100%;
+    height: 80vh;
+    padding: 50px 100px;
+   
+}
+.about-container .my-name{
+    display: inline;
+    font-size: 55px;
+    font-weight: 600;
+}
+.about-container bio-info {
+    font-size: 200px;
+}
+
+.about-container span{
+    color: #126d06;
+    font-size: 70px;
+    font-weight: 800;
+    
+}
+.heroimg {
+    border-radius: 50%;
+    border:10px solid rgb(1, 56, 1);
+    box-shadow: 5px 5px 50px;
+    width: 460px;
+}
+.hero p{
+    text-align: center;
+    font-size: 22px;
+    opacity: 0.5;
+    margin: 20px;
+}
+.about-container .heroimg:hover{
+    cursor: pointer;
+}
+.social-icons img {
+   margin:30px 5px;
+ 
+}
+.social-icons img:hover{
+    cursor: pointer;
+}
+.about-container{
+    position:relative;
+    display: flex;
+    justify-content:space-between;
+   align-items: center;
+   gap: 8rem;
+}
+.info p{
+    font-size: 25px;
+}
+.about{
+    margin-top:50px;
+    background-size:cover;
+    z-index: -1;
+}
+h1 {
+font-size: 45px;
+text-align: center;
+margin: 50px;
+
+}
+
+.skill-card{
+     width: 30%;
+    display: grid;
+    place-items:center;
+    gap: 2em;
+    padding: 50px;
+    box-shadow: 5px 5px 20px green;
+    border-radius: 20px;
+}
+.skill-card p{
+    font-size: 20px;
+    text-align: center;
+}
+.skills-cards{
+   display: flex;
+   gap:40px;
+   justify-content: center;
+  
+}
+.bar { 
+
+    background-color: rgb(192, 192, 192); 
+    width: 80%; 
+    border-radius: 15px; 
+   
+} 
+.skillset{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.skillset img{
+    filter: drop-shadow(5px 5px 5px black);
+}
+.skill { 
+    background-color: rgb(51, 138, 25); 
+    color: white; 
+    padding: 1.5%; 
+    text-align: right; 
+    font-size: 20px; 
+    border-radius: 15px; 
+} 
+
+.skills-language{
+    display: grid;
+    grid-template-columns: auto auto ;
+    row-gap:1rem ;
+    column-gap: 2rem;
+    padding:0px 40px;
+}
+
+.html { 
+    width: 90%; 
+} 
+
+.css { 
+    width: 80%; 
+} 
+.js { 
+    width: 70%; 
+} 
+.c { 
+    width: 80%; 
+} 
+.php { 
+    width: 55%; 
+} 
+.dotnet { 
+    width: 65%; 
+} 
+.git { 
+    width: 45%; 
+} 
+.react { 
+    width: 75%; 
+} 
+.bootstrap { 
+    width: 51%; 
+} 
+ 
+.projects-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 3rem;
+    padding: 0% 4% ;
+   
+}
+.project {
+  
+    width: 390px;
+    height:auto;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    transition: 0.3s ease;
+    padding-top:16px;
+    padding-left: 17px;
+    column-gap: 56px;
+}
+
+.project:hover{
+    scale: 1.01;
+}
+
+.project-image{
+    aspect-ratio: 1;
+   width: 95%;
+   border-radius: 6px;
+}
+.project h4{
+    font-size: 40px;
+    margin: 10px 0px 0px 0px;
+}
+.project p{
+    font-size: 23px;
+    opacity: 0.7;
+}
+
+
+button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #135c05da;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    padding: 16px;
+    width: 166px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 30px 30px 30px 0px;
+   }
+   
+   button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+   }
+   
+   button span:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -15px;
+    transition: 0.5s;
+   }
+   
+   button:hover span {
+    padding-right: 15px;
+   }
+   
+   button:hover span:after {
+    opacity: 1;
+    right: 0;
+   } 
+
+
+
+
+
+
+   @media screen and (max-width:425px) {
+  
+     header .hamburger i{
+        display:block;
+    }
+    header{
+        z-index: 10;
+    }
+     nav{  
+        display: none;
+        position: absolute;
+        top: 60px; /* Adjust according to your header height */
+       right: 0;
+        width: 50%;
+        background-color: #f1f1f1;
+        opacity: 0.8;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        flex-direction: column;
+    }
+    nav ul{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    header li {
+        display: block;
+        float: right;
+    }
+    nav.show{
+        display: flex;
+    }
+      
+   .heroimg{
+    width: 300px;
+    border:6px solid rgb(1, 56, 1);
+    box-shadow: 5px 5px 10px;
+   }
+   .hero{
+    display: grid;
+    place-items: center;
+   }
+
+   .about .about-container{
+    padding: 0%;
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+    gap: 0;
+   }
+   
+    .about-container .my-name{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .about-container span{
+        color: #126d06;
+        font-size: 60px;
+        font-weight: 600;
+        
+    }
+    .about-container{
+    gap: 3rem;
+    }
+
+    h1 {
+    font-size: 35px;
+    }
+    .about .info span{
+        font-size: 45px;
+    }
+    .about .bio-info{
+        opacity: 0.7;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .info{
+        display: grid;
+        place-items: center;
+    }
+    .skills-cards{
+        display: grid;
+        grid-template-columns: auto;
+        padding: 20px;
+    }
+    .skills-cards .skill-card{
+        width: 100%;
+        padding:10px 2px;
+    }
+    .skill-card p{
+        font-size: 20px;
+        text-align: center;
+    }
+  
+    .bar { 
+        display: none;
+    } 
+    .skillset{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .skills-language{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+
+    
+.projects-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 3rem;
+    padding: 0% 4% ;
+   
+}
+.project {
+    width: 340px;
+}
+.project h4{
+    font-size: 35px;
+    margin: 10px 0px 0px 0px;
+}
+
+.projects-container{
+    display: grid;
+    grid-template-columns: auto ;
+    row-gap: 3rem;
+    padding: 0% 4% ;
+   
+}
+
+
+
+ .contact-container iframe{
+  aspect-ratio: 1;
+    width: 300px;
+    border: 3px solid black ;
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px black;
+    margin-bottom: 10px;
+}
+i{
+  
+  margin: 10px 0px ;
+}
+
+.contact-container  .contact-details p{
+    font-size: 15px;
+}
+
+.contact-container{
+display: flex;
+flex-direction: column-reverse;
+justify-content:center;
+gap:5em ;
+padding: 0%;
+}
+label{
+    font-size: 25px;
+}
+.contact-form input ,textarea{
+    max-width: 300px;
+}
+.contact-info{
+    display: GRID;
+  grid-template-columns: auto;
+  place-content: center;
+}
+.contact .contact-form-container{
+    padding: 22px;
+}
+    }
+   
+
+
+.download-resume {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    border-radius: 40px;
+    border:4px solid green;
+}
+.resume-container:hover{
+    cursor:pointer;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+iframe{
+  aspect-ratio: 1;
+    width: 400px;
+    border: 3px solid black ;
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px black;
+    margin-bottom: 10px;
+}
+i{
+  
+  margin: 10px 0px ;
+}
+.contact-details p{
+    font-size: 20px;
+}
+
+.contact-container{
+display: flex;
+justify-content:center;
+gap:5em ;
+padding: 20px;
+
+}
+label{
+    font-size: 25px;
+}
+.contact-form input ,textarea{
+    width: 600px;
+    display: block;
+    border:2px solid #126d06;
+    box-shadow: 3px 3px 19px rgba(140, 204, 140, 0.76);
+    border-radius: 7px;
+    resize: none;
+    padding:5px;
+    font-size: 20px;
+
+}
+.contact-form-container{
+
+    border: 2px solid green;
+    padding: 0px 40px;
+    border-radius: 20px;
+    background: linear-gradient(rgba(0, 255, 0, 0.356),rgba(0, 0, 0, 0.212));
+   
+}
+.contact-form{
+    line-height: 4rem;
+}
+.contact-form input{
+   
+   height: 45px;
+   
+}
+.contact-form-container h3{
+    margin: 0px;
+    font-size: 40px;
+}
+button[type="submit"]{
+    padding: 1%;
+    height:45px;
+}
+
+.contact-details p{
+    font-size: 25px;
+}
+
+
+footer {
+    background-color: #056615;
+    opacity: 0.7;
+    padding: 10px 20px;
+    text-align: center; 
+    color: white;
+    margin-top: 50px;
+}
+
+.footer-container {
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+}
+.footer-container p{
+    font-size: 25px;
+}
+
+@media (max-width: 425px) {
+    footer {
+        padding: 20px 10px;
+    }
+
+    .footer-container {
+        height: auto;
+    }
+}
