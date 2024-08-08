@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Frontend
 - 💬 Ask me anything about HTML,CSS,JS 
 - 📫 How to reach me: gadalsandesh123@gmail.com
-- 😄 My website: building will update soon
+- 😄 My website: [(https://www.sandeshgadal.com.np/)](https://www.sandeshgadal.com.np/)
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
