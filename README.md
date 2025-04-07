@@ -5,7 +5,6 @@
 - 💬 Ask me anything about HTML,CSS,JS 
 - 📫 How to reach me: gadalsandesh123@gmail.com
 - 😄 My website: [(https://www.sandeshgadal.com.np/)](https://www.sandeshgadal.com.np/)
-- ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
