@@ -25,7 +25,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,php,laravel,tailwind,postman,vite,github,git,gitlab,vscode,figma,androidstudio	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,php,laravel,tailwind,postman,vite,github,git,gitlab,vscode,figma,androidstudio,aws,azure,firebase	)](https://skillicons.dev)
 
 ![Sandedsh Gadal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandesh-Gadal&show_icons=true&theme=dark)
 
