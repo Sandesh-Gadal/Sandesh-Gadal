@@ -211,11 +211,15 @@ alt="Role typing 1"/>
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=34D399&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+06+%5D+LIVE+TRANSMISSION+%E2%80%94+RANDOM+SIGNAL+INTERCEPTED+%E2%9C%A6" alt="s6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=34D399&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+06+%5D+LIVE+TRANSMISSION+%E2%80%94+TODAY%27S+SIGNAL+%E2%9C%A6" alt="s6"/>
 <br/><br/>
 
-<!-- LIVE RANDOM DEV QUOTE — different on every profile visit -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quoteColor=A78BFA&authorColor=67E8F9&backgroundColor=020617&symbolColor=7C3AED" width="90%" alt="Random Quote"/>
+<!-- Daily programming quote — stable, refreshes every 24h, dark themed -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED" width="82%" alt="Daily Programming Quote"/>
+</picture>
 
 </div>
 
