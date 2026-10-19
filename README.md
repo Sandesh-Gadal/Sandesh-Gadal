@@ -1,330 +1,255 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗
-     ║        S A N D E S H   G A D A L  ·  A S T R O  C Y B E R          ║
-     ║     Frontend Developer  ·  Nepal  ·  Navigating the Digital Cosmos  ║
-     ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!--
+  GitHub profile README for github.com/Sandesh-Gadal
+  Theme: "Midnight & Lime", same tokens as sandeshgadal.com.np
+    page #0B0E14 · panel #121722 · panel-2 #1A2030 · ink #EEF1F6 · muted #9AA3B2
+    lime #C6F432 (accent) · violet #8B7CFF (secondary) · led #1FAE62 (live/current only)
+  Light-mode variants use: paper #F3F4EF · lime-ink #4C7A00 · violet #6A5CF0
+  Setup notes (snake workflow, repo name): .claude/md/github-profile-SETUP.md
+-->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SHARK TEARS THROUGH DEEP SPACE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0:020617,40:0d0a2e,100:020617&reversal=false&section=header" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0E14,55:121722,100:1A2030&text=Sandesh%20Gadal&fontColor=C6F432&fontSize=64&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20from%20the%20database%20to%20the%20device&descSize=18&descAlignY=58&descColor=EEF1F6&animation=fadeIn" width="100%" alt="Sandesh Gadal, full-stack developer, from the database to the device"/>
 
 <div align="center">
 
-<!-- COSMIC ORBITRON TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=9999&pause=9999&color=A78BFA&center=true&vCenter=true&width=720&height=90&lines=SANDESH+GADAL" alt="Name Header"/>
-
-<!-- NEBULA DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=17&section=header&reversal=false" width="60%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C6F432&center=true&vCenter=true&width=760&height=36&lines=Lead+developer+at+Hexa+Labs%3A+automating+milk+collection;Laravel+%C2%B7+MySQL+%C2%B7+React+%C2%B7+IoT+device+integration;Building+an+MIS+platform+part-time+at+Loopix+Creations;Bharatpur%2C+Nepal+%C2%B7+27.68%C2%B0N+84.43%C2%B0E+%C2%B7+UTC%2B5%3A45" alt="Lead developer at Hexa Labs. Laravel, MySQL, React, IoT. Bharatpur, Nepal."/>
 
 <br/>
 
-<!-- ANIMATED ROLE CYCLING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=820&height=40&lines=%F0%9F%9B%B8+Navigating+the+digital+cosmos+from+Nepal+%E2%80%94+27.7%C2%B0N+85.3%C2%B0E;%E2%9A%A1+React+%C2%B7+JavaScript+%C2%B7+TailwindCSS+%C2%B7+Laravel+%C2%B7+The+infinite+stack;%F0%9F"
-alt="Role typing 1"/>
+<a href="https://www.sandeshgadal.com.np"><img src="https://img.shields.io/badge/Available_for_work-121722?style=for-the-badge&logo=statuspage&logoColor=1FAE62" alt="Available for work"/></a>
+<a href="https://www.sandeshgadal.com.np"><img src="https://img.shields.io/badge/Portfolio-121722?style=for-the-badge&logo=googlechrome&logoColor=C6F432" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sandesh-gadal-743560293"><img src="https://img.shields.io/badge/LinkedIn-121722?style=for-the-badge&logo=linkedin&logoColor=8B7CFF" alt="LinkedIn"/></a>
+<a href="mailto:gadalsandesh123@gmail.com"><img src="https://img.shields.io/badge/Email-121722?style=for-the-badge&logo=gmail&logoColor=C6F432" alt="Email"/></a>
+<a href="https://holopin.io/@sandeshgadal"><img src="https://img.shields.io/badge/Holopin-121722?style=for-the-badge&logo=hashnode&logoColor=8B7CFF" alt="Holopin"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=820&height=40&lines=%F0%9F%94%AD+Frontend+Developer+%7C+Web+Architect+%7C+Digital+Craftsman;%F0%9F%8C%A0+Open+to+collaborations+%C2%B7+Remote+missions+%C2%B7+Open+source;%F0%9F%9A%80+Building+interfaces+that+live+between+stars" alt="Role typing 2"/>
-
-<br/>
-
-<!-- STATUS CONSTELLATION BADGES -->
-[![ORBIT](https://img.shields.io/badge/⬡_ORBIT-Active-A78BFA?style=flat-square&labelColor=0d0a2e)](#)&nbsp;
-[![SIGNAL](https://img.shields.io/badge/⬡_SIGNAL-Strong-67E8F9?style=flat-square&labelColor=0d0a2e)](#)&nbsp;
-[![MISSION](https://img.shields.io/badge/⬡_MISSION-Building_UIs-F472B6?style=flat-square&labelColor=0d0a2e)](#)&nbsp;
-[![FUEL](https://img.shields.io/badge/⬡_FUEL-Coffee_☕-FBBF24?style=flat-square&labelColor=0d0a2e)](#)&nbsp;
-[![NODE](https://img.shields.io/badge/⬡_NODE-Nepal_🌏-34D399?style=flat-square&labelColor=0d0a2e)](#)
-
-<br/>
-
-<!-- LIVE COUNTERS -->
-![Visitors](https://komarev.com/ghpvc/?username=Sandesh-Gadal&color=A78BFA&style=flat-square&label=🛸+Travelers+Passed)&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/Sandesh-Gadal?style=flat-square&color=67E8F9&labelColor=0d0a2e&label=🌌+Crew)&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/Sandesh-Gadal?style=flat-square&color=FBBF24&labelColor=0d0a2e&label=⭐+Stars+Forged)
+<img src="https://komarev.com/ghpvc/?username=Sandesh-Gadal&color=C6F432&style=flat-square&label=profile+views" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Sandesh-Gadal?style=flat-square&color=8B7CFF&labelColor=121722&label=followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Sandesh-Gadal?style=flat-square&color=C6F432&labelColor=121722&label=stars" alt="Stars"/>
 
 </div>
 
 <br/>
 
----
+## `01` Right now
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 01  CAPTAIN'S LOG  ✦                                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+I build systems end to end: the database underneath, the API in the middle, the interface people click, and the devices out in the field.
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=A78BFA&center=true&vCenter=true&width=420&height=22&lines=%E2%9C%A6+%5B+01+%5D+CAPTAIN%27S+LOG+%E2%80%94+OPERATOR+DOSSIER+%E2%9C%A6" alt="s1"/>
-</div>
+| | |
+| :-- | :-- |
+| 🟢 **Building** | An automatic milk collection system at **Hexa Labs**. I lead the build, design how the milk analysers connect, and bring their readings into the system. |
+| 🔧 **Part-time** | An MIS platform for **Loopix Creations**: system design, database schema, Laravel REST APIs, slow MySQL queries tuned. |
+| 📚 **Learning** | DevOps: Docker, Kubernetes, Terraform, Ansible, AWS and CI/CD pipelines. |
+| ✍️ **Writing** | Plain-language tutorials, starting with [Essential Linux commands for beginners](https://bosc.org.np/blogs/basic-linux-commands/) on BOSC Nepal. |
+| 💬 **Ask me about** | Laravel APIs, MySQL schemas and queries, wiring hardware (NFC readers, analysers) into a web app. |
 
 <br/>
 
-```
-╔═════════════════════════════════════════════════════════════════════════╗
-║   ✦ ✦ ✦          DEEP SPACE OPERATOR FILE  —  CLASSIFIED          ✦ ✦ ✦ ║
-╠═════════════════════════════════════════════════════════════════════════╣
-║                                                                         ║
-║    CALLSIGN    ░░  Sandesh Gadal                                        ║
-║    CLASS       ░░  Frontend Developer  ·  Web Architect                 ║
-║    ORIGIN      ░░  Nepal  🌏  ·  Coords: 27.7°N, 85.3°E               ║
-║    STATUS      ░░  🟢 ONLINE  ·  Actively on mission                  ║
-║    ORBIT       ░░  Geostationary above the Frontend Cosmos              ║
-║                                                                         ║
-║    MAIN STACK  ░░  React  ·  JavaScript  ·  TailwindCSS  ·  Vite       ║
-║    SECONDARY   ░░  Laravel  ·  PHP  ·  Java                             ║
-║    CLOUD OPS   ░░  AWS  ·  Azure  ·  Firebase  ·  Ubuntu               ║
-║    INSTRUMENTS ░░  Git  ·  GitHub  ·  GitLab  ·  Figma  ·  VS Code     ║
-║                                                                         ║
-║    VECTOR      ░░  Building production-grade web experiences            ║
-║    TRAINING    ░░  Advanced Frontend Engineering patterns               ║
-║    OPEN TO     ░░  Collaborations  ·  Open Source  ·  Remote missions   ║
-║                                                                         ║
-║    COMM LINK   ░░  gadalsandesh123@gmail.com                            ║
-║    WEB PORTAL  ░░  https://www.sandeshgadal.com.np                      ║
-║                                                                         ║
-║    ► Ask me anything about:  HTML  ·  CSS  ·  JavaScript               ║
-║                                                                         ║
-╚═════════════════════════════════════════════════════════════════════════╝
+## `02` The whole stack
+
+Where each tool sits, from what users touch down to the hardware.
+
+```mermaid
+flowchart TB
+    UI["🖥️ <b>Interface</b><br/>React · TypeScript · Tailwind CSS · Bootstrap"]
+    API["⚙️ <b>Server & APIs</b><br/>PHP · Laravel · REST API design · Node.js"]
+    DATA["🗄️ <b>Data</b><br/>MySQL · PostgreSQL · Firebase"]
+    OPS["🚢 <b>Infra & tooling</b><br/>Git · Linux · Docker · CI/CD · Kubernetes · Terraform · Ansible · AWS"]
+    DEV["📡 <b>Devices</b><br/>IoT device integration · NFC readers · Java (Android)"]
+    UI --> API --> DATA
+    API --> OPS
+    DEV -- readings --> API
+
+    classDef core fill:#121722,stroke:#C6F432,stroke-width:2px,color:#EEF1F6
+    classDef edge fill:#121722,stroke:#8B7CFF,stroke-width:2px,color:#EEF1F6
+    class UI,API,DATA core
+    class OPS,DEV edge
 ```
 
----
+Grouped by how much you'd trust me with it, not by self-rated bars:
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 02  WARP STREAK  ✦                                              -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=F472B6&center=true&vCenter=true&width=420&height=22&lines=%E2%9C%A6+%5B+02+%5D+WARP+STREAK+%E2%80%94+IGNITION+SEQUENCE+%E2%9C%A6" alt="s2"/>
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Sandesh-Gadal&theme=tokyonight&hide_border=true&background=020617&stroke=7C3AED&ring=A78BFA&fire=F472B6&currStreakNum=A78BFA&sideNums=C4B5FD&currStreakLabel=67E8F9&sideLabels=67E8F9&dates=4B5563&border_radius=14&date_format=j%20M%5B%2C%20Y%5D" width="72%" alt="Streak Stats"/>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 03  CONSTELLATION MAP  ✦  (Summary Cards — stable API)          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=67E8F9&center=true&vCenter=true&width=480&height=22&lines=%E2%9C%A6+%5B+03+%5D+CONSTELLATION+MAP+%E2%80%94+LANGUAGE+%26+STATS+GRID+%E2%9C%A6" alt="s3"/>
-<br/><br/>
-
-<!-- ROW 1: language breakdown side-by-side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandesh-Gadal&theme=tokyonight" width="32%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandesh-Gadal&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandesh-Gadal&theme=tokyonight" width="32%" alt="Stats Summary"/>
+<table>
+  <tr>
+    <td width="130"><b>Daily</b><br/><sub>What I ship with at work</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,ts,tailwind,git&theme=dark&perline=10" alt="PHP, Laravel, MySQL, React, TypeScript, Tailwind CSS, Git"/><br/><sub>+ REST API design · IoT device integration</sub></td>
+  </tr>
+  <tr>
+    <td><b>Comfortable</b><br/><sub>Used on real projects</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,linux,firebase,java,androidstudio,bootstrap&theme=dark&perline=10" alt="Node.js, PostgreSQL, Docker, Linux, Firebase, Java, Android Studio, Bootstrap"/><br/><sub>+ NFC readers</sub></td>
+  </tr>
+  <tr>
+    <td><b>Learning</b><br/><sub>Actively working toward</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,aws,githubactions&theme=dark&perline=10" alt="Kubernetes, Terraform, Ansible, AWS, GitHub Actions"/></td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- ROW 2: productive time + full detail -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandesh-Gadal&theme=tokyonight&utcOffset=5.75" width="32%" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandesh-Gadal&theme=tokyonight" width="65%" alt="Profile Details"/>
+## `03` Things I've shipped
 
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 04  WARP TRAIL  ✦  (Activity Graph)                             -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sandesh-Gadal/Aabhaa"><img src="https://raw.githubusercontent.com/Sandesh-Gadal/N-portfolio/main/src/assets/images/aaabhaa.png" alt="Aabhaa screenshot"/></a>
+      <h3>🌾 Aabhaa</h3>
+      <sub><code>PRODUCT · ANDROID</code></sub>
+      <p>A farming assistant that puts local weather, crop recommendations and soil NPK readings in one app.</p>
+      <ul>
+        <li>Built the Android client in Java, backed by a Laravel API and Firebase</li>
+        <li>Combined a third-party weather feed with soil nutrient data to drive the recommendations</li>
+      </ul>
+      <a href="https://github.com/Sandesh-Gadal/Aabhaa">Source →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://blog.oxfordcollege.edu.np"><img src="https://raw.githubusercontent.com/Sandesh-Gadal/N-portfolio/main/src/assets/images/BLog.png" alt="Digital Journal Publication System screenshot"/></a>
+      <h3>📰 Digital Journal Publication System</h3>
+      <sub><code>OXFORD COLLEGE · IN PRODUCTION</code></sub>
+      <p>Takes an academic journal online end to end: submission, peer review, editorial decisions and publication.</p>
+      <ul>
+        <li>Built role-based workflows for authors, reviewers and editors</li>
+        <li>Built the React front end on a Laravel and MySQL back end</li>
+      </ul>
+      <a href="https://blog.oxfordcollege.edu.np">Visit live →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sandesh-Gadal/eAttendance"><img src="https://raw.githubusercontent.com/Sandesh-Gadal/N-portfolio/main/src/assets/images/eattendance.png" alt="NFC E-Attendance screenshot"/></a>
+      <h3>📇 NFC E-Attendance</h3>
+      <sub><code>OPEN SOURCE</code></sub>
+      <p>Students tap an NFC card and attendance is recorded. Reports build themselves, so nobody fills in a register by hand.</p>
+      <ul>
+        <li>Built a Laravel REST API that receives card reads and writes attendance to MySQL</li>
+        <li>Automated per-class and per-student reports</li>
+      </ul>
+      <a href="https://github.com/Sandesh-Gadal/eAttendance">Source →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://chitwancomputer.com.np"><img src="https://raw.githubusercontent.com/Sandesh-Gadal/N-portfolio/main/src/assets/images/chitwan-computer-live.jpg" alt="Chitwan Computer screenshot"/></a>
+      <h3>🖥️ Chitwan Computer</h3>
+      <sub><code>CLIENT WORK</code></sub>
+      <p>Storefront and product catalogue for a local computer shop, with an admin panel the owners use to update products themselves.</p>
+      <ul>
+        <li>Built a Laravel admin for products and site content, so routine updates need no developer</li>
+        <li>Built the React landing and product listing pages</li>
+      </ul>
+      <a href="https://chitwancomputer.com.np">Visit live →</a> · <a href="https://github.com/Sandesh-Gadal/chitwan-computer-website">Source →</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=FBBF24&center=true&vCenter=true&width=480&height=22&lines=%E2%9C%A6+%5B+04+%5D+WARP+TRAIL+%E2%80%94+NEURAL+ACTIVITY+GRID+%E2%9C%A6" alt="s4"/>
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh-Gadal&bg_color=020617&color=A78BFA&line=7C3AED&point=F472B6&area=true&hide_border=true&area_color=1a0a3e&custom_title=🛸+commit_trajectory.log+—+Sandesh+Gadal&title_color=67E8F9&radius=10" width="98%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 05  SHIP'S ARMOURY  ✦  (Tech Stack)                             -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=A78BFA&center=true&vCenter=true&width=480&height=22&lines=%E2%9C%A6+%5B+05+%5D+SHIP%27S+ARMOURY+%E2%80%94+LOADED+TECH+MODULES+%E2%9C%A6" alt="s5"/>
+  <a href="https://github.com/Sandesh-Gadal/Aabhaa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandesh-Gadal&repo=Aabhaa&hide_border=true&bg_color=0B0E14&title_color=C6F432&icon_color=8B7CFF&text_color=EEF1F6" alt="Aabhaa repo card"/></a>
+  <a href="https://github.com/Sandesh-Gadal/eAttendance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandesh-Gadal&repo=eAttendance&hide_border=true&bg_color=0B0E14&title_color=C6F432&icon_color=8B7CFF&text_color=EEF1F6" alt="eAttendance repo card"/></a>
 </div>
 
 <br/>
 
+## `04` Where I've worked
+
+```mermaid
+timeline
+    title From a repair bench in Chitwan to leading an IoT build
+    2021 : Computer Service Technician · Chitwan Computer
+    2023 : Web Developer · Freelance
+    2024 : General Member · Code for Change
+         : Web Development Intern · Encryptix
+         : Backend Developer Intern · OCEM
+         : Admin Lead · Code for Change
+    2025 : Backend Developer · Loopix Creations (part-time)
+    2026 : Project Manager / Lead Developer · Hexa Labs
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                    ⚡   POWER LEVEL MATRIX   ⚡                       ║
-╠════════════════════════════════╦══════════════════════════════════════╣
-║  HTML / CSS        ██████████  ║  Git · GitHub      █████████░░░░░░  ║
-║  JavaScript        █████████░  ║  Figma · Postman   ████████░░░░░░░  ║
-║  React             ████████░░  ║  PHP · Laravel     ███████░░░░░░░░  ║
-║  TailwindCSS       █████████░  ║  Java              ██████░░░░░░░░░  ║
-║  Vite              ████████░░  ║  AWS · Azure       ██████░░░░░░░░░  ║
-║  Firebase          ███████░░░  ║  Ubuntu · Android  ██████░░░░░░░░░  ║
-╚════════════════════════════════╩══════════════════════════════════════╝
-```
 
-<div align="center">
+<details>
+<summary><b>What I did in each role</b> (click to open)</summary>
+<br/>
 
-<!-- SKILL ICONS — go-skill-icons (reliable active fork) -->
-**`✦ FRONTEND`**
+| Role | When | What I did |
+| :-- | :-- | :-- |
+| **Project Manager / Lead Developer** · Hexa Labs | Apr 2026 – now | Lead development of an automatic milk collection system. Design how the milk analysers connect and bring their readings into the system. Own third-party integrations and run the project day to day. |
+| **Backend Developer** · Loopix Creations | May 2025 – now · part-time | Architect an MIS platform end to end: system design, database schema and backend logic. Build REST APIs in Laravel and tune slow MySQL queries. Deploy and maintain services across hybrid hosting. |
+| **Admin Lead** · Code for Change | 2024 – 2025 · 1 yr term | Planned and ran logistics for workshops and tech programmes. Coordinated volunteers and external partners. |
+| **Backend Developer Intern** · OCEM | Nov 2024 – Jan 2025 | Built React and Tailwind UI components connected to Laravel services. Improved the responsiveness of existing pages. Shipped through a GitLab merge-request review flow. |
+| **Web Developer** · Self-employed | Sep 2023 – Dec 2024 | Delivered Laravel and React sites for clients, from scoping to deployment, and handled client communication through to handover. |
+| **Web Development Intern** · Encryptix | Jul – Aug 2024 · remote | Built small projects and UI components in semantic HTML, CSS and JavaScript. |
+| **General Member** · Code for Change | Jan – Dec 2024 | Contributed to community projects and helped run workshops. |
+| **Computer Service Technician** · Chitwan Computer | Feb 2021 – Jul 2023 | Diagnosed and repaired hardware and software faults. Installed and maintained operating systems for customers. |
 
-[![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,tailwind,vite&theme=dark&titles=true&size=54)](https://github.com/Sandesh-Gadal)
-
-**`✦ BACKEND & DATABASE`**
-
-[![Backend](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,java,firebase&theme=dark&titles=true&size=54)](https://github.com/Sandesh-Gadal)
-
-**`✦ CLOUD & PLATFORM`**
-
-[![Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,ubuntu,androidstudio&theme=dark&titles=true&size=54)](https://github.com/Sandesh-Gadal)
-
-**`✦ TOOLS & WORKFLOW`**
-
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,figma,postman&theme=dark&titles=true&size=54)](https://github.com/Sandesh-Gadal)
+</details>
 
 <br/>
 
-<!-- BADGE CONSTELLATION — all on deep space black -->
-![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-020617?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-020617?style=for-the-badge&logo=vite&logoColor=646CFF)
-![PHP](https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=A78BFA)
-![GitLab](https://img.shields.io/badge/GitLab-020617?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-020617?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![Android Studio](https://img.shields.io/badge/Android_Studio-020617?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 06  LIVE TRANSMISSION  ✦  (Random Dev Quote — changes every visit) -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+## `05` On GitHub
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=34D399&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+06+%5D+LIVE+TRANSMISSION+%E2%80%94+TODAY%27S+SIGNAL+%E2%9C%A6" alt="s6"/>
-<br/><br/>
 
-<!-- Daily programming quote — stable, refreshes every 24h, dark themed -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED"/>
-  <img src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&font=trebuchet_ms&quoteColor=A78BFA&authorColor=67E8F9&bgColor=020617&borderColor=7C3AED" width="82%" alt="Daily Programming Quote"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sandesh-Gadal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0B0E14&title_color=C6F432&icon_color=8B7CFF&text_color=EEF1F6&ring_color=C6F432"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandesh-Gadal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=F3F4EF&title_color=4C7A00&icon_color=6A5CF0&text_color=0B0E14&ring_color=4C7A00" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Gadal&layout=compact&langs_count=8&hide_border=true&bg_color=0B0E14&title_color=C6F432&text_color=EEF1F6"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Gadal&layout=compact&langs_count=8&hide_border=true&bg_color=F3F4EF&title_color=4C7A00&text_color=0B0E14" alt="Most used languages"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sandesh-Gadal&hide_border=true&border_radius=12&background=0B0E14&stroke=1A2030&ring=C6F432&fire=8B7CFF&currStreakNum=EEF1F6&sideNums=EEF1F6&currStreakLabel=C6F432&sideLabels=9AA3B2&dates=9AA3B2"/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=Sandesh-Gadal&hide_border=true&border_radius=12&background=F3F4EF&stroke=E8EAE3&ring=4C7A00&fire=6A5CF0&currStreakNum=0B0E14&sideNums=0B0E14&currStreakLabel=4C7A00&sideLabels=565C66&dates=565C66" alt="Contribution streak"/>
+</picture>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh-Gadal&bg_color=0B0E14&color=9AA3B2&line=C6F432&point=8B7CFF&area=true&area_color=C6F432&hide_border=true&radius=12&custom_title=Contributions%20over%20the%20last%20month&title_color=EEF1F6" alt="Contribution activity graph"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandesh-Gadal&theme=nord_dark&utcOffset=5.75" alt="When I commit (NPT)"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandesh-Gadal&theme=nord_dark" alt="Repos per language"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sandesh-Gadal&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub trophies"/>
+
+<!-- Contribution snake: generated daily by .github/workflows/snake.yml into the `output` branch (see SETUP) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandesh-Gadal/Sandesh-Gadal/output/snake-dark.svg"/>
+  <img width="98%" src="https://raw.githubusercontent.com/Sandesh-Gadal/Sandesh-Gadal/output/snake-light.svg" alt="Contribution graph being eaten by a snake"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 07  NEBULA HUMOR  ✦  (Random Dev Joke — refreshes every ~15min)  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+## `06` Writing & badges
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=F472B6&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+07+%5D+LAUGHING+GAS+NEBULA+%E2%80%94+INTERCEPTED+HUMOR+%E2%9C%A6" alt="s7"/>
-<br/><br/>
+| Article | Where | When |
+| :-- | :-- | :-- |
+| [Essential Linux commands for beginners](https://bosc.org.np/blogs/basic-linux-commands/): the handful of terminal commands a new Linux user actually needs, and what each one does | BOSC Nepal | Oct 2025 · 6 min |
 
-<!-- LIVE RANDOM PROGRAMMING JOKE -->
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%23020617&borderColor=%237C3AED&qColor=%23A78BFA&aColor=%2367E8F9&textColor=%23C4B5FD" width="80%" alt="Dev Joke"/>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 08  COSMIC FREQUENCY  ✦  (Animated Quote Rotator)               -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=FBBF24&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+08+%5D+COSMIC+FREQUENCY+%E2%80%94+ANIMATED+TRANSMISSIONS+%E2%9C%A6" alt="s8"/>
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=17&duration=4200&pause=1400&color=C4B5FD&center=true&vCenter=true&width=860&height=52&lines=%22The+best+UI+is+the+one+the+user+never+has+to+think+about.%22;%22Write+code+as+if+the+next+dev+is+a+serial+killer+who+knows+your+address.%22;%22First+solve+the+problem.+Then+write+the+code.+—+John+Johnson%22;%22Any+fool+can+write+code+a+computer+understands.+—+Martin+Fowler%22;%22In+space%2C+no+one+can+hear+your+console.error().%22;%22Code+is+poetry+beamed+across+the+cosmos.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.+—+Kent+Beck%22" alt="Quote Rotator"/>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 09  HYPERSPACE CHANNELS  ✦  (Socials)                           -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=9999&pause=9999&color=A78BFA&center=true&vCenter=true&width=520&height=22&lines=%E2%9C%A6+%5B+09+%5D+HYPERSPACE+CHANNELS+%E2%80%94+OPEN+COMM+PORTS+%E2%9C%A6" alt="s9"/>
-<br/><br/>
-
-<a href="https://github.com/Sandesh-Gadal">
-<img src="https://img.shields.io/badge/✦_GitHub-020617?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=020617" height="42"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/sandesh-gadal-743560293">
-<img src="https://img.shields.io/badge/✦_LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=020617" height="42"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/gadal.sandesh/">
-<img src="https://img.shields.io/badge/✦_Instagram-020617?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=020617" height="42"/>
-</a>&nbsp;
-<a href="https://www.facebook.com/sandesh.gadal.79/">
-<img src="https://img.shields.io/badge/✦_Facebook-020617?style=for-the-badge&logo=facebook&logoColor=60A5FA&labelColor=020617" height="42"/>
-</a>&nbsp;
-<a href="https://www.sandeshgadal.com.np/">
-<img src="https://img.shields.io/badge/✦_Portfolio-020617?style=for-the-badge&logo=safari&logoColor=FBBF24&labelColor=020617" height="42"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:gadalsandesh123@gmail.com">
-<img src="https://img.shields.io/badge/✦_BEAM_A_SIGNAL___gadalsandesh123@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=020617" height="40"/>
-</a>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  ✦ 10  GALACTIC REGISTRY  ✦  (Final Summary)                       -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│                                                                           │
-│   🛸  SANDESH GADAL  ·  ASTRO CYBER DIVISION  ·  FRONTEND SPECIALIST     │
-│  ─────────────────────────────────────────────────────────────────────    │
-│   📡  ORIGIN      ·  Nepal  ·  27.7°N, 85.3°E                           │
-│   ⚡  CORE STACK  ·  React · JavaScript · TailwindCSS · Laravel           │
-│   🌐  WEB PORTAL  ·  https://www.sandeshgadal.com.np                     │
-│   ✉️  COMM LINK   ·  gadalsandesh123@gmail.com                           │
-│   🌌  STATUS      ·  Exploring the frontend cosmos, one commit at a time  │
-│  ─────────────────────────────────────────────────────────────────────    │
-│    "I don't just build websites. I architect portals to other worlds."   │
-│                                                                           │
-└───────────────────────────────────────────────────────────────────────────┘
-```
-
-<!-- FINAL METRIC ROW -->
-![Visitors](https://komarev.com/ghpvc/?username=Sandesh-Gadal&color=A78BFA&style=flat-square&label=🛸+Travelers)&nbsp;
-![Followers](https://img.shields.io/github/followers/Sandesh-Gadal?style=flat-square&color=67E8F9&labelColor=020617&label=🌌+Crew)&nbsp;
-![Stars](https://img.shields.io/github/stars/Sandesh-Gadal?style=flat-square&color=FBBF24&labelColor=020617&label=⭐+Stars)
-
-</div>
+<a href="https://holopin.io/@sandeshgadal"><img src="https://holopin.me/sandeshgadal" alt="Sandesh's Holopin badge board" width="100%"/></a>
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  EGG HULL BREAKS — END TRANSMISSION  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<details>
+<summary><b>☕ Off duty</b>: a quote and a joke, refreshed for you</summary>
+<br/>
+<div align="center">
+  <img width="82%" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&quoteColor=C6F432&authorColor=8B7CFF&bgColor=0B0E14&borderColor=1A2030" alt="Programming quote of the day"/>
+  <br/><br/>
+  <img width="80%" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230B0E14&qColor=%23C6F432&aColor=%238B7CFF&textColor=%23EEF1F6" alt="Random programming joke"/>
+</div>
+</details>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=egg&height=140&color=0:020617,45:0d0a2e,100:020617&fontColor=A78BFA&text=✦+END+TRANSMISSION+✦&fontSize=18&fontAlignY=63&animation=blinking" width="100%"/> -->
+<br/>
+
+## `07` Got a system to build?
+
+I'm open to backend and full-stack roles, and to freelance work on Laravel, APIs and databases. Tell me what you're building; I usually reply within a day, Nepal time.
 
 <div align="center">
-<sub>🛸 crafted with cosmic precision · every pixel placed with intention · sandesh gadal © 2025</sub>
+
+<a href="mailto:gadalsandesh123@gmail.com"><img src="https://img.shields.io/badge/gadalsandesh123%40gmail.com-C6F432?style=for-the-badge&logo=gmail&logoColor=0B0E14&labelColor=C6F432&color=C6F432" height="38" alt="Email gadalsandesh123@gmail.com"/></a>
+<a href="https://www.sandeshgadal.com.np"><img src="https://img.shields.io/badge/sandeshgadal.com.np-121722?style=for-the-badge&logo=googlechrome&logoColor=C6F432" height="38" alt="sandeshgadal.com.np"/></a>
+
+<a href="https://www.linkedin.com/in/sandesh-gadal-743560293"><img src="https://img.shields.io/badge/LinkedIn-121722?style=flat-square&logo=linkedin&logoColor=8B7CFF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/gadal.sandesh/"><img src="https://img.shields.io/badge/Instagram-121722?style=flat-square&logo=instagram&logoColor=8B7CFF" alt="Instagram"/></a>
+<a href="https://www.facebook.com/sandesh.gadal.79/"><img src="https://img.shields.io/badge/Facebook-121722?style=flat-square&logo=facebook&logoColor=8B7CFF" alt="Facebook"/></a>
+<a href="https://holopin.io/@sandeshgadal"><img src="https://img.shields.io/badge/Holopin-121722?style=flat-square&logo=hashnode&logoColor=8B7CFF" alt="Holopin"/></a>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A2030,45:121722,100:0B0E14&text=database%20%E2%86%92%20device&fontColor=C6F432&fontSize=20&fontAlignY=72" width="100%" alt=""/>
